@@ -1,14 +1,14 @@
 
 # Hello world 👋🌎
 
-I'm a Frontend Developer, trying to become a ✨**Full Stack Developer**✨.
+I'm a Fullstack Developer from Uruguay.
 
 
 ## What I'm up to
 
 - 💁 27 years old.
 - 🏠 Living in Montevideo, Uruguay.
-- 💻 Working as a Web Developer with React.
+- 💻 Working as a Web Developer with React & Node.
 - 👯 Looking to collaborate with other developers.
 - 🧉 Coffee & mate lover
 - 🍕 + 🍍 = ❤️ Pizza? with pineapple, please
