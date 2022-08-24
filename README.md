@@ -6,11 +6,12 @@ I'm a Frontend Developer, trying to become a ✨**Full Stack Developer**✨.
 
 ## What I'm up to
 
-- 💁 25 years old.
+- 💁 27 years old.
 - 🏠 Living in Montevideo, Uruguay.
-- 💻 Working as a Web Developer with Angular.
-- 📚 Learning React.
+- 💻 Working as a Web Developer with React.
 - 👯 Looking to collaborate with other developers.
+- 🧉 Coffee & mate lover
+- 🍕 + 🍍 = ❤️ Pizza? with pineapple, please
 
   
 ## Skills
